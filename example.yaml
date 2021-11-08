@@ -1,0 +1,34 @@
+output:
+  Your [pack] contains a [description] [item], a [color] [item] and a [item].
+
+item:
+  - few coins
+  - old ring
+  - handkerchief
+  - shard of bone
+  - whole lot of lint
+  - tin of tea leaves
+
+pack:
+  - purse
+  - backpack
+  - bag
+  - pack
+  - knapsack
+  - rucksack
+
+color:
+  - silver
+  - bronze
+  - gold
+  - purple
+
+description:
+  - nasty
+  - stanky
+  - disgusting
+  - rotten
+  - putrid
+  - homophobic
+  - tranhumanic
+  - jurassaphobic
